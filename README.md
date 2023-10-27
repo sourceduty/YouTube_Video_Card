@@ -15,11 +15,6 @@ YouTube video thumbnail image, title, description, channel banner and channel ti
 - Single file images.
 - Promotional.
 
-### FUTURE UPDATES
-
-- Video upload date.
-- Video URL.
-
 ### REFERENCES
 
 [YouTube Thumbnail Downloader](https://www.softr.io/tools/download-youtube-thumbnail)
