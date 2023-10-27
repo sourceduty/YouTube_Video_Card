@@ -6,6 +6,10 @@
 
 YouTube video thumbnail image, title, description, channel banner and channel title compiled into one image file.
 
+<br />
+
+![compiled_image](https://github.com/sourceduty/YouTube_Video_Card/assets/123030236/ca207fa1-015b-42cd-b2dd-50309d69eb35)
+
 ### FEATURES
 
 - Single file images.
